@@ -1,4 +1,4 @@
-#Before you start using the program be sure that the password list and the script are in the same directory and you need to browse it in your terminall too
+#Before you start using the program be sure that the password list and the script are in the same directory and you need to browse it in your terminal too
 
 import hashlib
 
